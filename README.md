@@ -21,7 +21,7 @@ This is a simple React application that generates a list of color shades based o
 
 ## Live Demo
 
-Check out the live demo of the Color Generator App here: [Live Demo](https://your-live-demo-url.com)
+Check out the live demo of the Color Generator App here: [Live Demo](https://color-generator-teal.vercel.app/)
 
 ## Usage
 
