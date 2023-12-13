@@ -11,7 +11,7 @@ This is a simple React application that generates a list of color shades based o
   - [Usage](#usage)
   - [Built With](#built-with)
   - [Contributing](#contributing)
-  - [Contact Information](#contact-information)
+  - [Contact Me](#contact-me)
 
 ## Features
 
@@ -21,7 +21,7 @@ This is a simple React application that generates a list of color shades based o
 
 ## Live Demo
 
-Check out the live demo of the Color Generator App here: [Live Demo](https://color-generator-teal.vercel.app/)
+Check out the live demo of the Color Generator App here: [Live Demo](https://color-generator-plum-mu.vercel.app/)
 
 ## Usage
 
@@ -39,10 +39,9 @@ Check out the live demo of the Color Generator App here: [Live Demo](https://col
 
 If you want to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome contributions to make color generator even better.
 
-## Contact Information
+## Contact Me
 
-If you have any questions or need assistance, you can reach out to the project author:
+If you have any questions or suggestions, feel free to contact me:
 
-- Email: [Adham Nasser](mailto:adhamxiii@gmail.com)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
